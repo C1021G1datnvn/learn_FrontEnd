@@ -1,0 +1,273 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(253, 230, 196);
+    align-items: center;
+}
+.ml20px{
+    margin-left: 20px;
+}
+.hover:hover{
+    color: blueviolet;
+}
+#title{
+    display: flex;
+    align-items: center;
+}
+#login{
+    display: flex;
+    align-items: center;
+}
+.logo1 {
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+.logo2 {
+    font-weight: bold;
+    color: purple;
+    font-size: 30px;
+}
+#sign_in{
+    font-weight: bold;
+}
+#sign_up{
+    color: aliceblue;
+    background-color: rgb(97, 16, 97);
+    border: 1px solid rgb(111, 22, 111);
+    border-radius:10px;
+    height: 35px;
+    width: 80px;
+}
+#body1{
+    background-color: rgb(253, 230, 196);
+    padding: 25px;
+    display: flex;
+}
+#column1{
+    width: 50%;
+}
+#column2{
+    width: 50%;
+}
+#title2{
+    font-weight: bold;
+    font-size: 50px;
+}
+.button{
+    color: aliceblue;
+    background-color: rgb(97, 16, 97);
+    border: 1px solid rgb(111, 22, 111);
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#service2{
+    display: flex;
+    flex-wrap: nowrap;  
+}
+#item1{
+    width: 30%;
+    margin-left: 85px;
+}
+#item2{
+    width: 30%;
+}
+#item3{
+    width: 30%;
+}
+.title4{
+    font-weight: bold;
+    font-size: 20px;
+}
+.item{
+    text-align: center;
+}
+#body3{
+    display: flex;
+}
+.item_bd3{
+    width: 50%;
+    margin-left: 80px;
+    text-align: center;
+}
+#take_care{
+    font-weight: bold;
+    font-size: 30px;
+}
+.power{
+    font-weight: bold;
+    top: 30px;
+}
+.item2_bd3{
+    width: 50%;
+}
+#round1{
+    background-color: rgb(194, 194, 48);
+    border-radius: 100px;
+    color: white;
+    width: 50px;    
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}   
+#round2{
+    background-color: orangered;
+    border-radius: 100px;
+    color: white;
+    width: 50px;    
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}   
+#round3{
+    background-color: rgb(77, 77, 255);
+    border-radius: 100px;
+    color: white;
+    width: 50px;    
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}  
+.test{
+    display: flex;
+}
+#body4{
+    display: flex;
+    justify-content: center;
+}
+.item2_bd4{
+    width: 44%;
+    text-align: center;
+}
+#title_item{
+    font-weight: bold;
+    font-size: 30px;
+}
+#body4{
+    display: flex;
+    justify-content: center;
+}
+#body5{
+    display: flex;
+    margin-left: 230px;
+}
+.item_bd5{
+    width: 30%;
+}
+.name1{
+    font-weight: bold;
+    font-size: 18px;
+}
+.round_bd5{
+    background-color: rgb(251, 208, 143);
+    color: black;
+    border-radius: 100px;
+    width: 31px;
+    height: 32px;
+    text-align: center;
+    margin-left: 35px;
+}
+#they_say{
+    font-weight: bold;
+    font-size: 30px;
+}
+span:hover{
+    color: blueviolet;
+}
+#body6{
+    display: flex;
+    background-color: blueviolet;
+}
+#subscribe{
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    margin-bottom: 15px;
+}
+#button1{
+    background-color: white;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 40px;
+    width: 125px;
+}
+.item_bd6{
+    width: 50%;
+}
+input{
+    width: 252px;
+    height: 40px;
+}
+#body7{
+    display: flex;
+    /* position: relative; */
+    justify-content: center;
+}
+#touch{
+    font-weight: bold;
+    font-size: 30px;
+}
+#box_shadow{
+    width: 35%;
+    box-shadow: 20px 20px 50px 15px grey;
+    padding: 25px;
+    border-radius: 10px;    
+    /* position: absolute; */
+}
+#button3{
+    background-color: blueviolet;
+    border-radius: 5px;;
+    color: white;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    height: 40px;
+    width: 125px;
+    margin-top: 15px;
+}
+#footer{
+    background-color: rgb(253, 230, 196);
+    height: 190px;
+    padding: 20px;
+}
+.select_ft{
+    display: flex;
+}
+.ft1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.mr-20{
+    margin-right: 25px;
+}
+svg:hover{
+    color: blueviolet;
+}
+.borderless-input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 80%;
+ }
