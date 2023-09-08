@@ -7,3 +7,5 @@ menu.addEventListener("click", function(){
 window.onscroll = () => {
     navbar.classList.remove("active");
 }
+
+console.log(123);
